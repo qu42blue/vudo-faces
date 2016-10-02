@@ -1,4 +1,63 @@
 {
+  "stickers" : [
+    {
+      "filename" : "faces_0012_Layer15.sticker"
+    },
+    {
+      "filename" : "faces_0013_Layer9.sticker"
+    },
+    {
+      "filename" : "faces_0014_Layer8.sticker"
+    },
+    {
+      "filename" : "faces_0002_Layer31.sticker"
+    },
+    {
+      "filename" : "faces_0003_Layer30.sticker"
+    },
+    {
+      "filename" : "faces_0016_Layer5.sticker"
+    },
+    {
+      "filename" : "faces_0006_Layer25.sticker"
+    },
+    {
+      "filename" : "faces_0008_Layer19.sticker"
+    },
+    {
+      "filename" : "faces_0005_Layer29.sticker"
+    },
+    {
+      "filename" : "faces_0004_Layer29.sticker"
+    },
+    {
+      "filename" : "faces_0015_Layer7.sticker"
+    },
+    {
+      "filename" : "faces_0010_Layer17.sticker"
+    },
+    {
+      "filename" : "faces_0017_Layer4.sticker"
+    },
+    {
+      "filename" : "faces_0000_Layer1.sticker"
+    },
+    {
+      "filename" : "faces_0011_Layer16.sticker"
+    },
+    {
+      "filename" : "faces_0018_Layer3.sticker"
+    },
+    {
+      "filename" : "faces_0007_Layer22.sticker"
+    },
+    {
+      "filename" : "faces_0009_Layer18.sticker"
+    },
+    {
+      "filename" : "faces_0001_Layer32.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

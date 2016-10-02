@@ -37,7 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8065884C1D8919240088083A /* faces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = faces.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8065884C1D8919240088083A /* Peter Vu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Peter Vu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		806588501D8919240088083A /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		806588541D8919240088083A /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 		8065884D1D8919240088083A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8065884C1D8919240088083A /* faces.app */,
+				8065884C1D8919240088083A /* Peter Vu.app */,
 				806588501D8919240088083A /* StickerPackExtension.appex */,
 			);
 			name = Products;
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8065884B1D8919240088083A /* faces */ = {
+		8065884B1D8919240088083A /* Peter Vu */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8065885D1D8919240088083A /* Build configuration list for PBXNativeTarget "faces" */;
+			buildConfigurationList = 8065885D1D8919240088083A /* Build configuration list for PBXNativeTarget "Peter Vu" */;
 			buildPhases = (
 				8065884A1D8919240088083A /* Resources */,
 				8065885C1D8919240088083A /* Embed App Extensions */,
@@ -75,9 +75,9 @@
 			dependencies = (
 				806588531D8919240088083A /* PBXTargetDependency */,
 			);
-			name = faces;
+			name = "Peter Vu";
 			productName = faces;
-			productReference = 8065884C1D8919240088083A /* faces.app */;
+			productReference = 8065884C1D8919240088083A /* Peter Vu.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
 		8065884F1D8919240088083A /* StickerPackExtension */ = {
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 806588491D8919240088083A /* Build configuration list for PBXProject "faces" */;
+			buildConfigurationList = 806588491D8919240088083A /* Build configuration list for PBXProject "Peter Vu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,7 +128,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8065884B1D8919240088083A /* faces */,
+				8065884B1D8919240088083A /* Peter Vu */,
 				8065884F1D8919240088083A /* StickerPackExtension */,
 			);
 		};
@@ -256,7 +256,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = 9UFNLQ289W;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vnmusa.faces.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = "iTunes-Store-operation-failed.-com.vnmusa.faces";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = 9UFNLQ289W;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vnmusa.faces.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = "iTunes-Store-operation-failed.-com.vnmusa.faces";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		806588491D8919240088083A /* Build configuration list for PBXProject "faces" */ = {
+		806588491D8919240088083A /* Build configuration list for PBXProject "Peter Vu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				806588571D8919240088083A /* Debug */,
@@ -317,14 +317,16 @@
 				8065885B1D8919240088083A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		8065885D1D8919240088083A /* Build configuration list for PBXNativeTarget "faces" */ = {
+		8065885D1D8919240088083A /* Build configuration list for PBXNativeTarget "Peter Vu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8065885E1D8919240088083A /* Debug */,
 				8065885F1D8919240088083A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

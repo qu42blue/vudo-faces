@@ -18,7 +18,7 @@
                BlueprintIdentifier = "8065884F1D8919240088083A"
                BuildableName = "StickerPackExtension.appex"
                BlueprintName = "StickerPackExtension"
-               ReferencedContainer = "container:faces.xcodeproj">
+               ReferencedContainer = "container:Peter Vu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,9 +30,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8065884B1D8919240088083A"
-               BuildableName = "faces.app"
-               BlueprintName = "faces"
-               ReferencedContainer = "container:faces.xcodeproj">
+               BuildableName = "Peter Vu.app"
+               BlueprintName = "Peter Vu"
+               ReferencedContainer = "container:Peter Vu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,7 +50,7 @@
             BlueprintIdentifier = "8065884F1D8919240088083A"
             BuildableName = "StickerPackExtension.appex"
             BlueprintName = "StickerPackExtension"
-            ReferencedContainer = "container:faces.xcodeproj">
+            ReferencedContainer = "container:Peter Vu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -67,16 +67,26 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8065884B1D8919240088083A"
-            BuildableName = "faces.app"
-            BlueprintName = "faces"
-            ReferencedContainer = "container:faces.xcodeproj">
+            BlueprintIdentifier = "8065884F1D8919240088083A"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:Peter Vu.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8065884F1D8919240088083A"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:Peter Vu.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -92,9 +102,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8065884B1D8919240088083A"
-            BuildableName = "faces.app"
-            BlueprintName = "faces"
-            ReferencedContainer = "container:faces.xcodeproj">
+            BuildableName = "Peter Vu.app"
+            BlueprintName = "Peter Vu"
+            ReferencedContainer = "container:Peter Vu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
